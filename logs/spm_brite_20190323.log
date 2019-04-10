@@ -1,0 +1,31 @@
+Date: 23/03/2019
+Stars:  DP UMa
+Comparisons: HD105247 (C1), HD104636 (C2)
+Observers: L. Fox Machado
+++++++++++++++++++++++++++++++++++++++++
+Night log:
+20:13 - Comienzo de la observación. Nubes delgadas.
+22:00 - Nubes mas gruesas.
+00:00 - 02:00  Mejoran las condiciones. Desdejado.
+03:00 - Se cubre el cielo, se continua observando.
+04:40 - Fin de las observaciones. Datos finales quizas no útliles. 
+
+Columnas de archivo de datos:
+
+
+1ra columna: Identificador 1 CIELO, 0 ESTRELLA.
+2da columna: Número secuencial.
+3ra columna: Identificador del objeto.
+4ta columna:  Tiempo de integración.
+5ta columna: Tiempo Sideral 
+6ta-9na columnas : uvby
+10ma columna: Número del diagfragma usado.
+11va columna: Identificador modo uvby
+12va columna: Fecha universal
+13va columna: Hora universal.
+
+1    1 SKY       10 073259      757     1532     1934     1080 1 -u--- 0230319 031333
+1    2 SKY       10 073309      665     1417     1903     1022 1 -u--- 0230319 031343
+1    3 SKY       10 073319      729     1455     1908     1011 1 -u--- 0230319 031353
+0    4 DPUMA      5 073409   334333  1048043  1370948   456842 1 -u--- 0230319 031443
+
